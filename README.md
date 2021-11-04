@@ -9,7 +9,7 @@ You can install WaveICA Package Using the following commands:
 
 When using this method, please cite as: Kui Deng, Fan Zhang, Qilong Tan, Yue Huang, Wei Song, Zhiwei Rong, Zhengjiang Zhu, Kang Li, Zhenzi Li. WaveICA: a novel algorithm to remove batch effects for large-scale untargeted metabolomics data based on wavelet analysis. Analytica Chimica Acta, 2019, 1061: 60-69.
 
-If you have any questions, please contact me. Email: dengkui_stat@163.com
+If you have any questions, please contact me. Email: dengkui_stat@163.com or dengkui@westlake.edu.cn
 
 
 
